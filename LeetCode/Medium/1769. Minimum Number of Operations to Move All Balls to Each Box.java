@@ -58,7 +58,7 @@ so some balls are going to come from the left and others are going to come from 
 thus lets use this information
 
 after every index
-the amount taht teh balls on teh left need to move increases by 1
+the amount that the balls on the left need to move increases by 1
 thus the amount of moves for the balls increases by the amount of balls to the left at a given position i (inclusive) for i+1
 thus use this info and find answer
 */
